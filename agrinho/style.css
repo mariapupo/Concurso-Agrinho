@@ -1,0 +1,66 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.banner {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+header {
+    background-color: #0033a0; 
+    color: #fff;
+    padding: 10px 0;
+    border-radius: 8px 8px 0 0;
+}
+
+header h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: #0033a0;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: justify;
+}
+
+
+/*Figure sede*/
+#sede {
+    margin-right: auto;
+    margin-left: auto;
+    width:30%;
+}
+
+#sede img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+.rodape{
+    text-align: center;
+}
